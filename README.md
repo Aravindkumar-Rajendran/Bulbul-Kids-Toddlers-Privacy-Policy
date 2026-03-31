@@ -1,6 +1,6 @@
 # Privacy-Policy
 
-BulBul Kids Learning App
+BulBul Kids - Learning App
 
 Last updated: March 2026
 
