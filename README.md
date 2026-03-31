@@ -4,7 +4,7 @@ BulBul Kids Learning App
 
 Last updated: March 2026
 
-BulBul Kids is a flashcard-based learning application for toddlers developed by Aravind Kumar Rajendran to help young children learn through images and audio in a safe and simple environment.
+BulBul Kids is a flashcard-based learning application for toddlers / pre-school kids developed by Aravind Kumar Rajendran to help young children learn through images and audio in a safe and simple environment.
 
 We value the privacy and safety of children and their families. This Privacy Policy explains how our app handles information.
 
